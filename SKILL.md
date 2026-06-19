@@ -2,7 +2,8 @@
 name: Cultural Intelligence Builder
 slug: cultural-intelligence-builder
 description: Develops cultural awareness, cross-cultural communication skills, and global mindset adaptability.
-tags: [cultural-awareness, communication, global, growth]
+version: v1.0.0
+tags: cultural-intelligence, cross-cultural, global-mindset, diversity-inclusion, intercultural-communication
 ---
 
 # Cultural Intelligence Builder
@@ -34,6 +35,17 @@ Micro-practices for staying curious and adaptive in real conversations: learning
 3. *"I'm adopting a child from another country — what do I need to understand about the cultural transition they'll face?"*
 4. *"I keep getting feedback that I'm "too direct" in international meetings — I don't mean to be but I don't know how to adapt"*
 5. *"I'm traveling to Japan for work for the first time — what's the most important cultural intelligence I need?"*
+
+
+## Usage Scenarios
+
+1. **User input:** "I'm leading a team across US, India, Japan, and Germany. Build my cultural intelligence."
+→ **Expected output:** CQ development plan — cultural-dimension mapping (Hofstede: power distance, individualism, uncertainty avoidance per country), communication-style adaptation guide (direct vs. indirect, high-context vs. low-context), meeting-facilitation adjustments per culture, and weekly cross-cultural reflection journal template.
+2. **User input:** "I keep offending my Chinese business partners and don't know why. Diagnose and fix."
+→ **Expected output:** Cultural friction diagnosis — common Western→Chinese business missteps (face-preservation, indirect refusal, guanxi expectations, gift-giving protocol, meeting hierarchy), specific likely issues based on described interactions, behavioral correction scripts, and relationship-repair strategy.
+3. **User input:** "Create a cultural intelligence onboarding program for our company's global new hires."
+→ **Expected output:** 90-day CQ onboarding curriculum — Month 1: self-awareness (personal cultural lens, implicit bias audit), Month 2: knowledge (country culture deep-dives, business etiquette by region), Month 3: strategy + action (cross-cultural scenario simulations, cultural mentoring pairing, real-project application).
+
 
 ## Safety & Boundaries
 This skill is for self-reflection and personal development only. It does not provide medical, psychological, legal, or professional advice. Always consult qualified professionals for health, mental health, or legal concerns. Information provided is for educational purposes and should not replace professional guidance. This tool does not store personal data between sessions.
