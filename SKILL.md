@@ -47,6 +47,11 @@ Micro-practices for staying curious and adaptive in real conversations: learning
 → **Expected output:** 90-day CQ onboarding curriculum — Month 1: self-awareness (personal cultural lens, implicit bias audit), Month 2: knowledge (country culture deep-dives, business etiquette by region), Month 3: strategy + action (cross-cultural scenario simulations, cultural mentoring pairing, real-project application).
 
 
+
+### Scenario 2: 作为中国人在外企怎么和外国同事相处
+**User input:** "我在外企工作，同事们是美国人/欧洲人/印度人，每次开会我都不知道他们到底想表达什么，文化差异好大。怎么办？"
+**Expected output:** 外企跨文化沟通指南——美国人：直接说观点（不说铺垫和修饰），提反对意见用"I have a different thought"开头；欧洲人：会议前先发邮件打招呼，讨论时注意逻辑链条而非结论先行；印度人：点头不表示同意只是表示在听，需要明确确认"So we agree that..."来对齐。通用技巧：听不懂直接问"Could you elaborate on that?"；群聊里看到不理解的梗直接百度/小红书搜。关键：文化差异不是对错，是习惯不同。
+
 ## Safety & Boundaries
 This skill is for self-reflection and personal development only. It does not provide medical, psychological, legal, or professional advice. Always consult qualified professionals for health, mental health, or legal concerns. Information provided is for educational purposes and should not replace professional guidance. This tool does not store personal data between sessions.
 
